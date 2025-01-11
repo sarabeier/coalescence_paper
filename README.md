@@ -1,1 +1,1 @@
-This repository includes scripts to reproduce statistics and figures published in "Dominance of opportunistic generalist species after aquatic microbial community coalescence"by A. Rain Franco, GP de Moraes & S. Beier
+This repository includes scripts to reproduce statistics and figures published in "Dominance of opportunistic generalist species after aquatic microbial community coalescence" by A. Rain Franco, GP de Moraes & S. Beier
