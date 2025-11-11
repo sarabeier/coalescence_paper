@@ -17,7 +17,7 @@ accepted in [Ecosphere](https://esajournals.onlinelibrary.wiley.com/journal/2150
 This script is written in R and contains the code to create Figure 1 of the manuscript (map of sample sites and boxplot of time series chlorophyll a and salinity data from the sites SOLA and Canet).
 
 ## script02_community.dada.R
-This script is written in R and includes the code used to process metabarcoding sequence data via the [DADA2](https://benjjneb.github.io/dada2/index.html)pipline.
+This script is written in R and includes the code used to process metabarcoding sequence data via the [DADA2](https://benjjneb.github.io/dada2/index.html) pipline.
 
 ## script03_genomic_traits_estimation.md
 This script contains code written in R and Bash. It utilizes genomic trait values from previously sequenced genomes ([Beier et al. 2022](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.985216/full)) to predict corresponding traits for closely related ASVs in the sequenced communities using the [PICRUSt2](https://huttenhower.sph.harvard.edu/picrust/) software. Predicted genomic traits—including genome size, the fraction of transcription factors per genome, the number of 16S rRNA gene copies, and maximal growth rates estimated via codon usage bias.
